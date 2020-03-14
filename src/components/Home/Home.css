@@ -1,0 +1,15 @@
+.home-section{
+    display: flex;
+    margin-top: 5px;
+}
+.users{
+    width: 75%;
+    margin: 0 20px;
+}
+.information{
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px grey;
+    height: 500px;
+}
